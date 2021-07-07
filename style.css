@@ -75,7 +75,9 @@ h2{
 }
 
 .skills-item{
+    text-align: justify;
     width: 80%;
+    height: 300px;
     margin: 0 5%;
     padding-left: 20px;
     border-radius: 10px;
