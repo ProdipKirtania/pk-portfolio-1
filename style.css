@@ -86,7 +86,7 @@ h2{
 
 #front-end-dev{
     border-left: 10px solid;
-    border-image: linear-gradient(#240b92, rgb(17, 207, 221));
+    border-image: linear-gradient(#240b92, #11cfdd);
     border-image-slice: 1;
 }
 
@@ -98,10 +98,10 @@ h2{
 
 footer{
     padding: 5px;
-    background-image: linear-gradient(to left, orange, tomato);
+    background-image: linear-gradient(to left, #11cfdd, #240b92);
 }
 
 footer p{
     color: white;
-    text-align: center; 
+    text-align: center;
 }
