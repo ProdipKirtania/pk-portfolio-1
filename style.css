@@ -39,7 +39,7 @@ h2{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
-    box-shadow: 
+   
 }
 
 .half-page img{
@@ -94,7 +94,6 @@ h2{
     border-left: 10px solid;
     border-image: linear-gradient(tomato, orange);
     border-image-slice: 1;
-   
 }
 
 footer p{
